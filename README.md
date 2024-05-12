@@ -1,27 +1,14 @@
-# AppEnset
+<img width="960" alt="image" src="https://github.com/GadanyHind/Angular-App-Product/assets/152644893/90109b67-3e3f-4b80-850b-3aa8e86973a7">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+<img width="959" alt="image" src="https://github.com/GadanyHind/Angular-App-Product/assets/152644893/bdc7afec-6335-4268-b16e-f9a2819ccdcb">
 
-## Development server
+<img width="959" alt="image" src="https://github.com/GadanyHind/Angular-App-Product/assets/152644893/baf8c845-3ff3-4b57-8e7b-2e2a2760abf3">
+<img width="953" alt="image" src="https://github.com/GadanyHind/Angular-App-Product/assets/152644893/6b30079c-c3af-4611-bab3-ed15b300c35e">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<img width="960" alt="image" src="https://github.com/GadanyHind/Angular-App-Product/assets/152644893/34b2663f-5aa4-4c4b-8b1e-7902991fb4db">
 
-## Code scaffolding
+<img width="956" alt="image" src="https://github.com/GadanyHind/Angular-App-Product/assets/152644893/5b168612-9c81-459f-9aba-134e6c90ae09">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img width="956" alt="image" src="https://github.com/GadanyHind/Angular-App-Product/assets/152644893/5e7eda0c-942a-406d-80d5-34ee598404cc">
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img width="960" alt="image" src="https://github.com/GadanyHind/Angular-App-Product/assets/152644893/3bea666f-ea5b-490a-aefe-21d3df566137">
